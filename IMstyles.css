@@ -103,15 +103,13 @@ img {
 }
 
 .gif-reveal summary {
-    cursor: pointer;
-    font-size: 18px;
+    display: inline-block;
+    background-color: #bfdbfe;
+    color: #0f172a;
+    padding: 12px 20px;
+    border-radius: 8px;
     font-weight: 600;
-    color: #0D6BA1;
-    margin-bottom: 15px;
-}
-
-.gif-reveal summary:hover {
-    background-color: black;
+    cursor: pointer;
 }
 
 .gif-reveal img {
