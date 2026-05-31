@@ -74,6 +74,21 @@ img {
     box-shadow: 0 4px 10px rgba(0,0,0,0.15);
 }
 
+.about-me {
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+}
+
+.about-me img {
+    width: 300px;
+    height: auto;
+}
+
+.about-me p{
+    font-size: 26px;
+    color: #495a56
+
 
 table {
     width: 100%;
