@@ -93,6 +93,29 @@ img {
     border-radius: 10px;
 }
 
+.reaction-gif {
+    text-align: center;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 12px;
+    max-width: 350px;
+}
+
+.reaction-gif img {
+    width: 250px;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+
+.gif-caption {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #64748b;
+    font-style: italic;
+}
+
 table {
     width: 100%;
     border-collapse: collapse;
